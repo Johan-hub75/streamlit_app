@@ -5,7 +5,7 @@ from datetime import time
 
 st.title("Título del proyecto Jorge 2")
 st.write("Hola, ¿**cómo** estás?")
-
+st.write("Hola, ¿**cómo** estás?")
 
 
 #Lectura del dataframe
